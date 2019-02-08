@@ -1,0 +1,358 @@
+<!DOCTYPE HTML>
+<!--
+	Tessellate by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>My profile</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<section id="header" class="dark">
+				<header>
+					<h1>Rico Fukase</h1>
+					<p>from <a href="https://www.google.com.ph/maps/place/%E6%97%A5%E6%9C%AC%E3%80%81%E5%8C%97%E6%B5%B7%E9%81%93%E7%99%BB%E5%88%A5%E5%B8%82/@42.4532045,140.9401691,11z/data=!3m1!4b1!4m5!3m4!1s0x5f756191d2cd8fa7:0x8daef4c7236d9253!8m2!3d42.4127597!4d141.1066317">Noboribetsu, Hokkaido</a></p>
+				</header>
+				<footer>
+					<a href="#first" class="button scrolly">Proceed to next phase</a>
+				</footer>
+			</section>
+
+		<!-- First -->
+			<section id="first" class="main">
+				<header>
+					<div class="container">
+						<span><class="image noboribetsu"><img src="images/1859.JPG" alt="" width="350px" />
+						</span>
+						<h2>WHERE'S NOBORIBETSU?</h2>
+						<p>There is southern place in Hokkaido. Especially famous for "Onsen" there. I love there plenty of nature like mountains, forest, rivers and the ocean. Not like a beautiful place everyone thoughts, but there's my special place in my heart..</p>
+						<footer>
+							<a href="#second" class="button scrolly">Proceed to next phase</a>
+						</footer>
+					</div>
+				</header>
+				<div id="second" div class="content dark style1 featured">
+					<div class="container">
+						<div class="row">
+							<div class="col-4 col-12-narrow">
+								<section>
+									<span class="image hobby"><img src="images/15822670_1274334632604311_4083095863833324573_n.jpg" alt="" /></span>
+									<header>
+										<h3>TRAVEL</h3>
+									</header>
+									<p>Since I traveled in Bagan(Myanmar), I've gotten into traveling to foreign countries by myself.
+									Not only just "traveling", but I went to 11 countries.
+									Especially my 1 month traveling to Spain, Portugal and morroco was so 
+									exciting. There are so much wonderful places, then I walked around all day long at that time.<br>
+								    I like foreign smells depends on countries. They makes me exraordinary.</p>
+								</section>
+							</div>
+							<div class="col-4 col-12-narrow">
+								<section>
+									<span class="image hobby"><img src="images/C823D2EC-6601-49CF-99B2-67DD0BFA4B56.JPG" alt="" /></span>
+									<header>
+										<h3>MUSIC</h3>
+									</header>
+									<p>I cannot live without music.
+									It is a sorce of my energy. Espesially Rock music is my special. I like to go to live concerts, and also playing the bass in the bands(Writing about it below "MY SPECIALITY").<br>
+								    Not only Rock music, but also I'm interested in Folk music, R&B and Hip Hop. I listen to various music to my feeling at that time.</p>
+								</section>
+							</div>
+							<div class="col-4 col-12-narrow">
+								<section>
+									<span class="image hobby"><img src="images/UNADJUSTEDNONRAW_thumb_112.jpg" alt="" /></span>
+									<header>
+										<h3>MOVIE</h3>
+									</header>
+									<p>That's my precious time to watch a movie.<br>
+									I prefer to watch a movie at home rather than watching it at a cinema. Because that occaicion makes me relaxed.<br>
+									Human drama is my favorite kinds of movies.
+									In these a couple of years, I'm interested in French movies like "Amelie", "The Umbrellas of Cherbourg" and Jean-Luc Godard film.</p>
+								</section>
+							</div>
+							<div class="col-12">
+								<footer>
+									<a href="#third" class="button scrolly">Proceed to next phase</a>
+								</footer>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Second -->
+			<section id="third" class="main">
+				<header>
+					<div class="container">
+						<h2>PLAYING THE BASS IS..</h2>
+						<span><class="image noboribetsu"><img src="images/UNADJUSTEDNONRAW_thumb_12f.jpg" alt="" width="350px" />
+						</span>
+						<h2>My speciality</h2><p>I started playing the bass when I was 1st grade in the high school.<br /> I spent almost time in my teenage (& Uni. life also) with my band mates.<br />
+						I became good at playing the bass so as to increase if time to spend with them increased.<br/> When I play the bass in the band, I feel like getting used to being unrivaled.</p>
+						<footer>
+							<a href="#fourth" class="button scrolly">Proceed to next phase</a>
+						</footer>
+					</div>
+				</header>
+				<div id="fourth" div class="content dark style2">
+					<div class="container">
+						<div class="row">
+							<div class="col-4 col-12-narrow">
+								<section>
+									<h3>MY TRIP ARCHIVES</h3>
+									<footer>
+										<a href="#fifth" class="button scrolly">Proceed to next phase</a>
+									</footer>
+								</section>
+							</div>
+							<div class="col-8 col-12-narrow">
+								<div class="row">
+									<div class="col-6"><a href="#" class="image fit"><img src="images/~2014.04.05 317.jpg" alt="" /><h5>Copenhagen(Denmark)..2014,02</h5></a></div>
+									<div class="col-6"><a href="#" class="image fit"><img src="images/283.jpg" alt="" /><h5>Bagan(Myanmmar)..2014,12</h5></a></div>
+									<div class="col-6"><a href="#" class="image fit"><img src="images/303 2.jpg" alt="" /><h5>Sunshine Coast(Australia)..2015,02</h5></a></div>
+									<div class="col-6"><a href="#" class="image fit"><img src="images/055.JPG" alt="" /><h5>Hoi An(Vietnam)..2015,12</h5></a></div>
+									<div class="col-6"><a href="#" class="image fit"><img src="images/IMG_1614.jpg" alt="" /><h5>Pucket(Thailand)..2016,03</h5></a></div>
+									<div class="col-6"><a href="#" class="image fit"><img src="images/IMG_1577.jpg" alt="" /><h5>Lisborn(Portugal)..2016,12</h5></a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Third -->
+			<section id="fifth" class="main">
+				<header>
+					<div class="container">
+						<h2>Top 5 about myself</h2>
+						<ul>
+							<ol>・Travel around the world (by 30 years old)</ol>
+							<ol>・Get a job (until next July)</ol>
+							<ol>・Get married (by 35 years old)</ol>
+							<ol>・Be the person with the continuation power (everyday)</ol>
+							<ol>・Get confidence toward myself (3 months later)</ol>
+						</ul>
+						<footer>
+							<a href="#sixth" class="button scrolly">Proceed to next phase</a>
+						</footer>
+					</div>
+				</header>
+				<div id="sixth" div class="content dark style3">
+					<div class="container">
+						<span class="image featured"><img src="images/1103.jpg" alt="" /></span>
+						<div class="row">
+							<div class="col-4 col-12-narrow">
+								<h3>I WANNA TRAVEL AROUND THE WORLD EVER..🌎🌍🌏</h3>
+								<p>Traveling to overseas is one of my precious moments in my life as you know above of this profile. 
+								And even now, I have a lot of countries which  I wanna go. 
+							    So that’s better way to go around the world in once!</p>
+							    <p>Especially, I’m interested in South America and Africa.
+								At first, I wanna go to South America because I haven’t been there. For instance, Bolivia is my interesting place by “Lake Uyuni”. And also Peru (which famous for “Machu Pichu”)  is one of my place which I definitely wanna go.</p>
+							</div>
+							<div class="col-4 col-12-narrow">
+								<p>Second, I wanna explore more about Africa.
+								I have been to Morocco once. There are so attractive place like towns with deserts. There are totaly different from Japan so I wanna know more about there. Not only Morocco, but I wanna go to other countries in Africa. I wanna feel more African culture especially fashion. Because African textile design named “Capurana” is so cute! So I wanna see woman fashion there and bring back that clothes then remake for Japanese style.</p>
+							</div>
+							<div class="col-4 col-12-narrow">
+								<p>Second, I wanna explore more about Africa.
+								I have been to Morocco once. There are so attractive place like towns with deserts. There are totaly different from Japan so I wanna know more about there. Not only Morocco, but I wanna go to other countries in Africa. I wanna feel more African culture especially fashion. Because African textile design named “Capurana” is so cute! So I wanna see woman fashion there and bring back that clothes then remake for Japanese style.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+		<!-- Basic Elements -->
+		<!--
+			<section class="main">
+				<header>
+					<div class="container">
+						<h2>A Whole Lotta Elements</h2>
+						<p>General purpose elements for every general purpose. Or something like that.</p>
+					</div>
+				</header>
+				<div class="content style1 dark">
+					<div class="container">
+						<section>
+							<header>
+								<h3>Paragraph</h3>
+								<p>This is a byline</p>
+							</header>
+							<p>Phasellus nisl nisl, varius id <sup>porttitor sed pellentesque</sup> ac orci. Pellentesque
+							habitant <strong>strong</strong> tristique <b>bold</b> et netus <i>italic</i> malesuada <em>emphasized</em> ac turpis egestas. Morbi
+							leo suscipit ut. Praesent <sub>id turpis vitae</sub> turpis pretium ultricies. Vestibulum sit
+							amet risus elit.</p>
+						</section>
+						<section>
+							<header>
+								<h3>Blockquote</h3>
+							</header>
+							<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget.
+							tempus euismod. Vestibulum ante ipsum primis in faucibus. Cras sit amet urna eros, id egestas
+							tempus ante ipsum primis in faucibus orci luctus et ultrices.</blockquote>
+						</section>
+						<section>
+							<header>
+								<h3>Divider</h3>
+							</header>
+							<p>Donec consectetur <a href="#">vestibulum dolor et pulvinar</a>. Etiam vel felis enim, at viverra
+							ligula. Ut porttitor sagittis lorem, quis eleifend nisi ornare vel. Praesent nec orci
+							facilisis leo magna. Cras sit amet urna eros, id egestas urna. Quisque aliquam
+							tempus euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+							posuere cubilia.</p>
+							<hr />
+							<p>Donec consectetur vestibulum dolor et pulvinar. Etiam vel felis enim, at viverra
+							ligula. Ut porttitor sagittis lorem, quis eleifend nisi ornare vel. Praesent nec orci
+							facilisis leo magna. Cras sit amet urna eros, id egestas urna. Quisque aliquam
+							tempus euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+							posuere cubilia.</p>
+						</section>
+						<section>
+							<header>
+								<h3>Unordered List</h3>
+							</header>
+							<ul class="default">
+								<li>Donec consectetur vestibulum dolor et vel felis enim at viverra ligula. Ut porttitor sagittis lorem.</li>
+								<li>Donec consectetur vestibulum dolor et vel felis enim at viverra ligula. Ut porttitor sagittis lorem.</li>
+								<li>Donec consectetur vestibulum dolor et vel felis enim at viverra ligula. Ut porttitor sagittis lorem.</li>
+								<li>Donec consectetur vestibulum dolor et vel felis enim at viverra ligula. Ut porttitor sagittis lorem.</li>
+							</ul>
+						</section>
+						<section>
+							<header>
+								<h3>Ordered List</h3>
+							</header>
+							<ol class="default">
+								<li>Donec consectetur vestibulum dolor et vel felis enim at viverra ligula. Ut porttitor sagittis lorem.</li>
+								<li>Donec consectetur vestibulum dolor et vel felis enim at viverra ligula. Ut porttitor sagittis lorem.</li>
+								<li>Donec consectetur vestibulum dolor et vel felis enim at viverra ligula. Ut porttitor sagittis lorem.</li>
+								<li>Donec consectetur vestibulum dolor et vel felis enim at viverra ligula. Ut porttitor sagittis lorem.</li>
+							</ol>
+						</section>
+						<section>
+							<header>
+								<h3>Table</h3>
+							</header>
+							<div class="table-wrapper">
+								<table class="default">
+									<thead>
+										<tr>
+											<th>ID</th>
+											<th>Name</th>
+											<th>Description</th>
+											<th>Price</th>
+										</tr>
+									</thead>
+									<tbody>
+										<tr>
+											<td>00001</td>
+											<td>Lorem ipsum dolor</td>
+											<td>Ut porttitor sagittis lorem quis nisi ornare.</td>
+											<td>29.99</td>
+										</tr>
+										<tr>
+											<td>00002</td>
+											<td>Sit amet nullam</td>
+											<td>Ut porttitor sagittis lorem quis nisi ornare.</td>
+											<td>19.99</td>
+										</tr>
+										<tr>
+											<td>00003</td>
+											<td>Feugiat felis viverra</td>
+											<td>Ut porttitor sagittis lorem quis nisi ornare.</td>
+											<td>29.99</td>
+										</tr>
+										<tr>
+											<td>00004</td>
+											<td>Sagittis enim felis</td>
+											<td>Ut porttitor sagittis lorem quis nisi ornare.</td>
+											<td>19.99</td>
+										</tr>
+										<tr>
+											<td>00005</td>
+											<td>Nullam sed vestibulum</td>
+											<td>Ut porttitor sagittis lorem quis nisi ornare.</td>
+											<td>19.99</td>
+										</tr>
+									</tbody>
+									<tfoot>
+										<tr>
+											<td colspan="3"></td>
+											<td>100.00</td>
+										</tr>
+									</tfoot>
+								</table>
+							</div>
+						</section>
+						<section>
+							<header>
+								<h3>Form</h3>
+							</header>
+							<form method="post" action="#">
+								<div class="row gtr-50">
+									<div class="col-6 col-12-narrow">
+										<input type="text" name="name" id="name" value="" placeholder="John Doe" />
+									</div>
+									<div class="col-6 col-12-narrow">
+										<input type="text" name="email" id="email" value="" placeholder="johndoe@domain.tld" />
+									</div>
+									<div class="col-12">
+										<div class="select" tabindex="-1">
+											<select name="department" id="department">
+												<option value="">Choose a department</option>
+												<option value="1">Manufacturing</option>
+												<option value="2">Administration</option>
+												<option value="3">Support</option>
+											</select>
+										</div>
+									</div>
+									<div class="col-12">
+										<input type="text" name="subject" id="subject" value="" placeholder="Enter your subject" />
+									</div>
+									<div class="col-12">
+										<textarea name="message" id="message" placeholder="Enter your message"></textarea>
+									</div>
+									<div class="col-12">
+										<ul class="actions">
+											<li><input type="submit" class="button" value="Send Message" /></li>
+											<li><input type="reset" class="button alt" value="Clear Form" /></li>
+										</ul>
+									</div>
+								</div>
+							</form>
+						</section>
+					</div>
+				</div>
+			</section>
+		-->
+
+		<!-- Footer -->
+			<section id="footer">
+				<ul class="icons">
+					<li><a href="https://www.facebook.com/riko.fukase" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+					<li><a href="https://www.instagram.com/ricooooh/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+					<li><a href="https://github.com/ricofukase8" class="icon fa-github"><span class="label">GitHub</span></a></li>
+				</ul>
+				<div class="copyright">
+					<ul class="menu">
+						<li>&copy; Untitled. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</section>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
